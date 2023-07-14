@@ -1,0 +1,41 @@
+1
+welcometothecourse
+dfgfdshjaetjlvzxp
+Your cipher must contain 26 unique elements of a-z or 0-9
+
+1
+welcometothecourse
+qergdmlvlflksdfvolssd
+Your cipher must contain 26 unique elements of a-z or 0-9
+
+1
+welcometothecourse
+bcdefghijklmnopqrstuvwxyza
+Your cipher is valid.
+Your output is: xfmdpnfupuifdpvstf
+
+1
+welcometoschulich
+tHHequUickbrownfoxjump3doverthelazyDog!
+Your cipher must contain 26 unique elements of a-z or 0-9
+
+1
+welcometoschulich
+tHHequUickbrownfoxjump3doverthelazyDog
+Your cipher is valid.
+Your output is: auwexnudx3ekvwbek
+
+2
+auwexnudx3ekvwbek
+tHHequUickbrownfoxjump3doverthelazyDog
+welcometoschulich
+
+1
+tellmeandiforgetteachmeandirememberinvolvemeandilearnbenjaminfranklin
+bcd5fghijk60nopq1stu43xy2a
+uf00nfbo5jgpshfuufbdinfbo5jsfnfncfsjo3p03fnfbo5j0fbsocfokbnjogsbo60jo
+
+2
+ui2c25uzoenp5uc2zvujgvmuijoh5joui2xpsme1zoopuc2522ops2w2oupv1i2eui2bnv5uc2g2muxjuiui2i2zsui2m2ol2mm2s
+zc1e2ghij6lmnop4rs5uvwxyba
+thebestandmostbeautifulthingsintheworldcannotbeseenoreventouchedtheymustbefeltwiththehearthelenkeller
