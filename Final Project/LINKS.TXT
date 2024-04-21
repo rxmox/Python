@@ -1,5 +1,0 @@
-Unemployment - https://www.bls.gov/lau/lastch20.htm (U.S. BUREAU OF LABOR STATISTICS)
-Covid - https://github.com/nytimes/covid-19-data/blob/master/live/us-states.csv (GitHub)
-State to Region - https://www.kaggle.com/omer2040/usa-states-to-region (KAGGLE)
-Demographics - https://data.ers.usda.gov/reports.aspx?ID=17827 (Economic Research Service)
-Per capita - https://fred.stlouisfed.org/release/tables?rid=110&eid=257197&od=# (Fred Economic Data) 
